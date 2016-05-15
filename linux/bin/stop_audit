@@ -1,0 +1,1 @@
+auditctl -d exit, always -S execve
